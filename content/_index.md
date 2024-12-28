@@ -3,10 +3,12 @@ title: Hello
 draft: false
 ---
 
-# 👋 Hi, I'm Peter
+# Hello!
 
-I'm a data engineer in California. I spend my days building data platforms and tinkering with distributed systems. Lately I've been getting excited about open source projects.
+## My name is Peter Morrow.
 
-Just starting to write about what I'm learning and building.
+I'm a data engineer in California. I've worked on analytics, machine learning, and data platforms at several startups. Lately I've been investing more time open source projects.
+
+I'll be writing more about what I'm building soon.
 
 *Stay tuned . . .*
