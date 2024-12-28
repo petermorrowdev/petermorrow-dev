@@ -1,0 +1,4 @@
+baseURL = "https://petermorrow.dev"
+languageCode = "en-us"
+title = "Peter Morrow"
+theme = "minimal"
